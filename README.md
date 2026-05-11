@@ -36,6 +36,9 @@ Multi-OS virtualisation lab running Windows and Kali Linux VMs simultaneously. H
 ### 🔒 [Secure Remote Access Infrastructure](https://github.com/sethhkz/secure-remote-access)
 Full secure remote access setup using Tailscale VPN, SSH, RDP, SMB file sharing, and Wake-on-LAN — across 8 devices on Windows, iOS, and Linux. Built without using unsafe port forwarding.
 
+### 🔐 [Active Directory Lab — User Management & Domain Administration](https://github.com/sethhkz/active-directory-lab)
+Home lab Active Directory setup with user account management, security groups, organizational units, and Group Policy configuration. Configured domain authentication, password policies, and GPO application across domain-joined systems.
+
 ---
 
 ## 🎓 Education
